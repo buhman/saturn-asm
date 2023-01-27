@@ -1,0 +1,6 @@
+*.bin
+*.cue
+*.iso
+*.elf
+*.o
+!/segasmp/lib/*
